@@ -21,7 +21,7 @@ I am eager to apply my skills and knowledge in real-world scenarios and am activ
 - **Frameworks, Libraries, and Tools:** PyTorch, TensorFlow, Google Colab, Jupyter Notebook, VS Code 
 
 ### Education 🎓
-- **Master's in Mechanical Engineering**, Toronto Metropolitan University 
+- **Master's in Industrial Engineering**, Toronto Metropolitan University 
 - **Bachelor of Mechanical Engineering**, Toronto Metropolitan University 
 
 ### Certifications 📜
