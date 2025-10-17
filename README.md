@@ -5,7 +5,7 @@
 📍 **Mississauga, Canada**  
 📧 **Email:** [sahil.bhatt@torontomu.ca](mailto:sahil.bhatt@torontomu.ca)  
 🔗 **LinkedIn:** [Sahil Bhatt](https://linkedin.com/in/sahilpbhatt)  
-👨‍💻 **GitHub:** [sahilpbhatt](https://github.com/sahilpbhatt)
+👨‍💻 **GitHub:** [sahilpbhatt](https://github.com/sahilpbhatt1)
 
 
 ### About Me 🌐
